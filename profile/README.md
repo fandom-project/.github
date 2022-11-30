@@ -15,5 +15,7 @@ Medium article: https://medium.com/p/4edf0fc63134
 ## Repositores
 
 Back end: https://github.com/fandom-project/back-end
+
 Front end: https://github.com/fandom-project/front-end
+
 Artifacts: https://github.com/fandom-project/project-artifacts
